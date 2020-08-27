@@ -1,1 +1,1 @@
-# life-admin
+# Life Admin
